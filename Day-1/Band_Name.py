@@ -1,3 +1,4 @@
+# This is the barnd name generator app
 print("Welcome to the band name generator")
 # print()
 city=input("Name of the city you grew up in :")
